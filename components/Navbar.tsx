@@ -9,8 +9,8 @@ const Navbar = () => {
           <Image
             src={"/logo.svg"}
             alt="AutoGlimpse"
-            width={120}
-            height={20}
+            width={160}
+            height={80}
             className="object-contain"
           />
         </Link>
